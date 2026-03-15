@@ -1,97 +1,96 @@
-<!-- CYBERPUNK HEADER -->
+<!-- CYBER SECURITY SOC DASHBOARD BANNER -->
 
 <p align="center">
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%">
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%">
 </p>
 
-<h1 align="center">🛡 Cybersecurity Dashboard</h1>
+<h1 align="center">🛡 Cybersecurity Monitoring Dashboard</h1>
 
 <p align="center">
-A futuristic cybersecurity monitoring dashboard built with a cyberpunk hacker-style interface.
+Real-time Cyber Threat Visualization • Network Monitoring • SOC Simulation
 </p>
 
 ---
 
-# 🚀 Project Overview
+# 🚀 Project Badges
 
-The **Cybersecurity Dashboard** is a web-based interface designed to simulate the environment of a **Security Operations Center (SOC)**.
-
-It provides visual components commonly used in cybersecurity monitoring systems such as:
-
-- network activity logs
-- IP tracking simulation
-- packet analyzer
-- cyber attack visualization
-- terminal command console
-
-The interface follows a **dark neon cyberpunk theme inspired by hacker-style dashboards**.
+![GitHub stars](https://img.shields.io/github/stars/raja-kumar-1996/Matrix-Animation-Login?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/raja-kumar-1996/Matrix-Animation-Login?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/raja-kumar-1996/Matrix-Animation-Login?style=for-the-badge)
+![GitHub license](https://img.shields.io/github/license/raja-kumar-1996/Matrix-Animation-Login?style=for-the-badge)
 
 ---
 
 # 🌐 Live Demo
 
-👉 View the project here
+🚀 View the project online
 
 https://raja-kumar-1996.github.io/Matrix-Animation-Login/
 
 ---
 
-# 📸 Dashboard Preview
+# 🛡 Cyber Attack Map Preview
 
 <p align="center">
 
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="700">
+<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="750">
 
 </p>
 
----
-
-# ✨ Features
-
-## 🛡 Security Monitoring Interface
-Simulated cybersecurity monitoring dashboard.
-
-Displays different system activity modules used in SOC environments.
+This dashboard simulates **global cyber attack monitoring** similar to real SOC tools used by cybersecurity teams.
 
 ---
 
-## 🌍 Live Cyber Attack Map (Simulation)
+# 📊 Live Security Metrics
 
-Shows simulated cyber attack activity.
+<p align="center">
 
-Represents real-time monitoring of potential network threats.
+<img src="https://github-readme-stats.vercel.app/api?username=raja-kumar-1996&show_icons=true&theme=chartreuse-dark">
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=raja-kumar-1996&theme=chartreuse-dark">
 
-## 🌐 IP Tracking Visualization
+</p>
 
-Displays randomly generated IP addresses representing potential intrusions.
-
-Example:
-
-```
-Intrusion detected from IP 192.168.45.22
-``` id="ip-example"
+These metrics represent **developer activity and project contributions**.
 
 ---
 
-## 📦 Packet Analyzer
+# 📈 Threat Analytics Dashboard
 
-Simulates network packet monitoring.
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raja-kumar-1996&layout=compact&theme=chartreuse-dark">
+
+</p>
+
+Shows technologies used in this cybersecurity dashboard.
+
+---
+
+# 🧠 AI Threat Detection (Concept)
+
+The dashboard includes a simulated **AI-based threat monitoring system**.
 
 Example output:
 
 ```
-Packet ID: 3245
-Protocol: TCP
-Size: 1200 bytes
-``` id="packet-example"
+Threat Analysis Report
+----------------------
+
+Status: Monitoring
+Risk Level: Low
+Intrusion Attempts: 2
+Firewall Status: Active
+AI Threat Engine: Running
+```
+
+This section demonstrates how **machine learning models could detect suspicious activity** in real cybersecurity platforms.
 
 ---
 
-## 💻 Hacker Terminal Console
+# 💻 Hacker Terminal Console
 
-Users can interact with the simulated terminal by typing commands.
+The dashboard includes a **command terminal simulation**.
 
 Available commands:
 
@@ -99,15 +98,36 @@ Available commands:
 help
 scan
 clear
-``` id="terminal-commands"
+status
+```
 
 Example:
 
 ```
 > scan
 Scanning network...
-Threats detected: 0
-``` id="terminal-example"
+0 threats detected
+System secure
+```
+
+---
+
+# 🌐 Dashboard Modules
+
+### 🛡 Network Monitoring
+Displays simulated system activity logs.
+
+### 🌍 Global Attack Visualization
+Shows simulated cyber attack locations.
+
+### 📦 Packet Analyzer
+Monitors simulated network packets.
+
+### 🔐 Security Logs
+Displays system authentication logs.
+
+### 💻 Hacker Terminal
+Interactive command terminal simulation.
 
 ---
 
@@ -116,9 +136,10 @@ Threats detected: 0
 | Technology | Purpose |
 |-------------|--------|
 | HTML5 | Page structure |
-| CSS3 | Cyberpunk UI styling |
+| CSS3 | Cyberpunk UI design |
 | JavaScript | Dashboard logic |
 | Canvas API | Matrix animation |
+| Chart visualization | Security metrics |
 
 ---
 
@@ -132,59 +153,50 @@ Cybersecurity-Dashboard
 ├── script.js
 ├── assets
 │   ├── dashboard.png
-│   └── matrix.gif
+│   ├── matrix.gif
+│   └── world-map.png
 └── README.md
-``` id="project-structure"
-
----
-
-# ▶️ How to Run the Project
-
-### 1️⃣ Clone the repository
-
-```
-git clone https://github.com/raja-kumar-1996/Matrix-Animation-Login.git
 ```
 
 ---
 
-### 2️⃣ Open the project folder
+# 🏆 GitHub Trophies
 
-```
-cd Matrix-Animation-Login
-```
+<p align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=raja-kumar-1996&theme=matrix&no-frame=true&margin-w=10">
 
-### 3️⃣ Run the application
-
-Open the file:
-
-```
-index.html
-```
-
-in your web browser.
+</p>
 
 ---
 
-# 🎯 Learning Objectives
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+
+</p>
+
+---
+
+# 🎯 Learning Purpose
 
 This project demonstrates:
 
-- cybersecurity dashboard UI design
-- HTML Canvas animations
-- interactive JavaScript dashboards
-- cyberpunk interface design
-- terminal command simulation
+- Cybersecurity dashboard design
+- Security monitoring interfaces
+- Cyberpunk UI development
+- JavaScript visualization systems
+- SOC style dashboards
 
 ---
 
 # ⚠ Disclaimer
 
-This project is **for educational and demonstration purposes only**.
+This project is **for educational purposes only**.
 
-It does **NOT perform real cybersecurity monitoring or hacking activities**.
+It **does not perform real hacking or cybersecurity monitoring**.
 
 ---
 
@@ -192,7 +204,7 @@ It does **NOT perform real cybersecurity monitoring or hacking activities**.
 
 **Raja Kumar**
 
-GitHub Profile  
+GitHub  
 https://github.com/raja-kumar-1996
 
 ---
