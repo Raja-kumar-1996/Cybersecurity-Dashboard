@@ -1,8 +1,5 @@
 <!-- MATRIX CYBER SECURITY HEADER -->
 
-<p align="center">
-<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="100%">
-</p>
 
 <h1 align="center">🛡 Cybersecurity Monitoring Dashboard</h1>
 
