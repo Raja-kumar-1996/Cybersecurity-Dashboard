@@ -1,109 +1,103 @@
-<!-- MATRIX CYBER SECURITY HEADER -->
-
-<h1 align="center">🛡 Cybersecurity Monitoring Dashboard</h1>
+<!-- MATRIX RAIN HEADER -->
 
 <p align="center">
-Real-Time Threat Monitoring • SOC Simulation • Cyberpunk Security Interface
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%">
+</p>
+
+<h1 align="center">🟢 Welcome to the Matrix</h1>
+
+<p align="center">
+Cybersecurity • Web Development • Hacker Style Interfaces
 </p>
 
 ---
 
-# ⚡ Matrix System Boot
+# 💻 Terminal Boot Animation
 
+```
+> Booting SOC command system...
+> Loading security protocols...
+> Connecting to threat intelligence network...
+> Access granted.
 
-Accessing SOC system...
-Loading threat intelligence...
-Initializing network scanner...
-Activating intrusion detection...
-Cyber defense system ONLINE
-
-
----
-
-# 🚀 Project Overview
-
-The **Cybersecurity Monitoring Dashboard** is a futuristic interface inspired by **Security Operations Center (SOC)** environments used by cybersecurity teams.
-
-This project simulates various monitoring tools such as:
-
-• cyber attack visualization  
-• network monitoring  
-• IP tracking system  
-• packet analyzer  
-• hacker terminal console  
-
-The UI follows a **dark neon cyberpunk theme inspired by hacker dashboards**.
+Welcome, Raja Kumar.
+```
 
 ---
 
-# 🌐 Live Demo
+# 👨‍💻 About Me
 
-View the project:
+```
+Name: Raja Kumar
+Role: Cybersecurity Enthusiast
+Focus: Web Security & Cyberpunk Interfaces
+System Status: ONLINE
+```
 
-https://raja-kumar-1996.github.io/Matrix-Animation-Login/
+I build **cyberpunk UI projects, cybersecurity dashboards, and hacker-style web applications.**
 
 ---
 
-# 🌍 Global Cyber Attack Map
+# 🌍 Interactive Cyber Attack Map
 
 <p align="center">
 <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="750">
 </p>
 
-This dashboard simulates **real-time cyber attack monitoring** similar to global security platforms such as:
+Simulated **global cyber attack monitoring** inspired by:
 
-• Kaspersky Threat Map  
-• FireEye Cyber Map  
-• Norse Attack Map  
+- Kaspersky Threat Map  
+- FireEye Cyber Map  
+- Norse Attack Map  
 
-Future versions may integrate **real threat intelligence APIs**.
+Future version will integrate **real threat intelligence APIs**.
 
 ---
 
 # 🌍 3D Cyber Attack Globe
 
 <p align="center">
-<img src="hacker-desktop.jpg" width="750">
+<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="750">
 </p>
 
-Planned implementation:
+Planned features:
 
-• **Three.js 3D globe visualization**  
-• **attack path animations**  
-• **real-time threat data**
+• 3D globe visualization  
+• real-time attack paths  
+• WebGL / Three.js rendering  
 
-Example attack log:
+Example:
 
-
-Origin: Russia
-Target: Germany
+```
+Origin: China
+Target: USA
 Protocol: SSH
-Threat Level: Medium
 Status: Blocked
-
+```
 
 ---
 
-# 🧠 AI Threat Detection System
+# 🧠 AI SOC Dashboard
 
-The dashboard includes a simulated **AI-powered security monitoring engine**.
+<p align="center">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="750">
+</p>
 
-Example system report:
+Simulated **AI threat detection engine**.
 
-AI Threat Detection Report
+```
+AI Threat Analysis
+------------------
 
-Firewall Status: Active
-Intrusion Attempts: 3
-Suspicious Packets: 12
+Firewall: Active
+Intrusions Detected: 2
 Threat Level: LOW
-System Status: Secure
-
-
-This demonstrates how **machine learning models could detect suspicious activity** in real SOC platforms.
+System Health: Secure
+```
 
 ---
 
-# 📊 Real Security Metrics
+# 📊 Real-Time Security Metrics
 
 <p align="center">
 
@@ -113,130 +107,61 @@ This demonstrates how **machine learning models could detect suspicious activity
 
 </p>
 
-These charts display **developer activity and repository contributions**.
-
 ---
 
-# 📈 Technology Usage
+# 📊 Technology Usage
 
 <p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raja-kumar-1996&layout=compact&theme=chartreuse-dark">
+
 </p>
 
 ---
 
-# 📊 Interactive Dashboard Preview
+# 💻 Hacker Terminal
 
-<p align="center">
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="750">
-</p>
+```
+> help
 
-Modules included in the dashboard:
+Commands available:
 
-• Network monitoring  
-• Packet analyzer  
-• Security logs  
-• Intrusion detection  
-• Terminal console  
+scan     → scan network
+status   → system status
+clear    → clear terminal
+```
 
-These simulate **real tools used in cybersecurity SOC environments**.
+Example:
 
----
+```
+> scan
 
-# 💻 Hacker Terminal Console
-
-The dashboard includes a **command terminal simulation**.
-
-Available commands:
-
-
-help
-scan
-clear
-status
-
-
-Example usage:
-
-
-help
-Available commands:
-scan - scan network
-status - system health
-clear - clear terminal
-
-scan
 Scanning network...
-Threats detected: 0
+0 threats detected
 System secure
-
-
----
-
-# 🧰 Technologies Used
-
-| Technology | Purpose |
-|-------------|--------|
-| HTML5 | Page structure |
-| CSS3 | Cyberpunk UI design |
-| JavaScript | Dashboard logic |
-| Canvas API | Matrix animation |
-| Chart visualization | Security metrics |
+```
 
 ---
 
-# 📂 Project Structure
+# 🛠 Tech Stack
 
-
-Cybersecurity-Dashboard
-│
-├── index.html
-├── style.css
-├── script.js
-├── assets
-│ ├── dashboard.png
-│ ├── matrix.gif
-│ └── world-map.png
-└── README.md
-
+```
+HTML
+CSS
+JavaScript
+Cybersecurity UI
+Git
+GitHub
+```
 
 ---
 
-# 🛡 Dashboard Modules
-
-### Network Monitoring
-Displays simulated network traffic logs.
-
-### IP Tracking
-Random IP addresses simulate intrusion detection.
-
-### Packet Analyzer
-Displays simulated packet data.
-
-### Threat Detection
-Simulated AI threat monitoring.
-
-### Terminal Console
-Interactive command interface.
-
----
-
-# 🎯 Learning Purpose
-
-This project demonstrates:
-
-• cybersecurity dashboard design  
-• cyberpunk UI interfaces  
-• JavaScript simulation systems  
-• security monitoring visualization  
-• SOC-style dashboards  
-
----
-
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <p align="center">
+
 <img src="https://github-profile-trophy.vercel.app/?username=raja-kumar-1996&theme=matrix&no-frame=true&margin-w=10">
+
 </p>
 
 ---
@@ -244,17 +169,24 @@ This project demonstrates:
 # 🐍 Contribution Snake
 
 <p align="center">
+
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+
 </p>
 
 ---
 
-# 👨‍💻 Author
+# 🚀 Featured Project
 
-**Raja Kumar**
+### Matrix Rain Animation Login System
 
-GitHub  
-https://github.com/raja-kumar-1996
+Project:
+
+https://github.com/raja-kumar-1996/Matrix-Animation-Login
+
+Live Demo:
+
+https://raja-kumar-1996.github.io/Matrix-Animation-Login/
 
 ---
 
@@ -264,32 +196,11 @@ https://github.com/raja-kumar-1996
 
 ---
 
-# ⚠ Disclaimer
+# 🟢 SYSTEM STATUS
 
-This project is **for educational purposes only**.
-
-It **does not perform real hacking or cybersecurity monitoring**.
-
----
-
-# 📸 Dashboard Screenshot
-
-<p align="center">
-<img src="cyber-dashboard.png" width="750">
-</p>
-
----
-
-# ⭐ Support
-
-If you like this project:
-
-⭐ Star the repository  
-🍴 Fork the project  
-📢 Share it with others
-
----
-
-# 📜 License
-
-This project is open-source under the **MIT License**.
+```
+Security Level: ACTIVE
+Network Monitoring: ENABLED
+AI Threat Detection: RUNNING
+SOC Dashboard: ONLINE
+```
