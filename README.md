@@ -1,6 +1,5 @@
 <!-- MATRIX CYBER SECURITY HEADER -->
 
-
 <h1 align="center">🛡 Cybersecurity Monitoring Dashboard</h1>
 
 <p align="center">
@@ -11,13 +10,13 @@ Real-Time Threat Monitoring • SOC Simulation • Cyberpunk Security Interface
 
 # ⚡ Matrix System Boot
 
-```
-> Accessing SOC system...
-> Loading threat intelligence...
-> Initializing network scanner...
-> Activating intrusion detection...
-> Cyber defense system ONLINE
-```
+
+Accessing SOC system...
+Loading threat intelligence...
+Initializing network scanner...
+Activating intrusion detection...
+Cyber defense system ONLINE
+
 
 ---
 
@@ -48,9 +47,7 @@ https://raja-kumar-1996.github.io/Matrix-Animation-Login/
 # 🌍 Global Cyber Attack Map
 
 <p align="center">
-
 <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="750">
-
 </p>
 
 This dashboard simulates **real-time cyber attack monitoring** similar to global security platforms such as:
@@ -64,24 +61,26 @@ Future versions may integrate **real threat intelligence APIs**.
 ---
 
 # 🌍 3D Cyber Attack Globe
-![Cyber Security Dashboard](hacker-desktop.jpg)
 
+<p align="center">
+<img src="hacker-desktop.jpg" width="750">
+</p>
 
 Planned implementation:
 
 • **Three.js 3D globe visualization**  
 • **attack path animations**  
-• **real-time threat data**  
+• **real-time threat data**
 
 Example attack log:
 
-```
+
 Origin: Russia
 Target: Germany
 Protocol: SSH
 Threat Level: Medium
 Status: Blocked
-```
+
 
 ---
 
@@ -91,16 +90,14 @@ The dashboard includes a simulated **AI-powered security monitoring engine**.
 
 Example system report:
 
-```
 AI Threat Detection Report
---------------------------
 
 Firewall Status: Active
 Intrusion Attempts: 3
 Suspicious Packets: 12
 Threat Level: LOW
 System Status: Secure
-```
+
 
 This demonstrates how **machine learning models could detect suspicious activity** in real SOC platforms.
 
@@ -123,9 +120,7 @@ These charts display **developer activity and repository contributions**.
 # 📈 Technology Usage
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raja-kumar-1996&layout=compact&theme=chartreuse-dark">
-
 </p>
 
 ---
@@ -133,9 +128,7 @@ These charts display **developer activity and repository contributions**.
 # 📊 Interactive Dashboard Preview
 
 <p align="center">
-
 <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="750">
-
 </p>
 
 Modules included in the dashboard:
@@ -156,27 +149,27 @@ The dashboard includes a **command terminal simulation**.
 
 Available commands:
 
-```
+
 help
 scan
 clear
 status
-```
+
 
 Example usage:
 
-```
-> help
+
+help
 Available commands:
-scan  - scan network
+scan - scan network
 status - system health
 clear - clear terminal
 
-> scan
+scan
 Scanning network...
 Threats detected: 0
 System secure
-```
+
 
 ---
 
@@ -194,18 +187,18 @@ System secure
 
 # 📂 Project Structure
 
-```
+
 Cybersecurity-Dashboard
 │
 ├── index.html
 ├── style.css
 ├── script.js
 ├── assets
-│   ├── dashboard.png
-│   ├── matrix.gif
-│   └── world-map.png
+│ ├── dashboard.png
+│ ├── matrix.gif
+│ └── world-map.png
 └── README.md
-```
+
 
 ---
 
@@ -243,9 +236,7 @@ This project demonstrates:
 # 🏆 GitHub Trophies
 
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=raja-kumar-1996&theme=matrix&no-frame=true&margin-w=10">
-
 </p>
 
 ---
@@ -253,9 +244,7 @@ This project demonstrates:
 # 🐍 Contribution Snake
 
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-
 </p>
 
 ---
@@ -281,7 +270,15 @@ This project is **for educational purposes only**.
 
 It **does not perform real hacking or cybersecurity monitoring**.
 
----![Cyber Dashboard](cyber-dashboard.png)
+---
+
+# 📸 Dashboard Screenshot
+
+<p align="center">
+<img src="cyber-dashboard.png" width="750">
+</p>
+
+---
 
 # ⭐ Support
 
