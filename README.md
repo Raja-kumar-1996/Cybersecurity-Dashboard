@@ -1,25 +1,20 @@
 <!-- MATRIX RAIN HEADER -->
 
-
+<p align="center">
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%">
+</p>
 
 <h1 align="center">🟢 Welcome to the Matrix</h1>
 
-<p align="center">
-Cybersecurity • Web Development • Hacker Style Interfaces
-</p>
-
 ---
 
-# 💻 Terminal Boot Animation
+# 💻 Typing Animation
 
-```
-> Booting SOC command system...
-> Loading security protocols...
-> Connecting to threat intelligence network...
-> Access granted.
+<p align="center">
 
-Welcome, Raja Kumar.
-```
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&duration=3000&color=00FF41&center=true&vCenter=true&width=700&lines=Wake+up+Raja...;Accessing+SOC+System...;Loading+Cyber+Defense...;Threat+Monitoring+Activated;Welcome+to+the+Matrix">
+
+</p>
 
 ---
 
@@ -30,25 +25,26 @@ Name: Raja Kumar
 Role: Cybersecurity Enthusiast
 Focus: Web Security & Cyberpunk Interfaces
 System Status: ONLINE
+Location: Internet
 ```
 
-I build **cyberpunk UI projects, cybersecurity dashboards, and hacker-style web applications.**
+I build **cyberpunk web interfaces, cybersecurity dashboards, and hacker-style applications**.
 
 ---
 
-# 🌍 Interactive Cyber Attack Map
+# 🌍 Global Cyber Attack Map
 
 <p align="center">
 <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="750">
 </p>
 
-Simulated **global cyber attack monitoring** inspired by:
+Inspired by real cybersecurity monitoring systems like:
 
-- Kaspersky Threat Map  
-- FireEye Cyber Map  
-- Norse Attack Map  
+- Kaspersky Cyber Threat Map
+- FireEye Attack Map
+- Norse Attack Map
 
-Future version will integrate **real threat intelligence APIs**.
+Future versions may connect to **real threat intelligence APIs**.
 
 ---
 
@@ -58,24 +54,25 @@ Future version will integrate **real threat intelligence APIs**.
 <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="750">
 </p>
 
-Planned features:
-
-• 3D globe visualization  
-• real-time attack paths  
-• WebGL / Three.js rendering  
-
-Example:
+Planned visualization:
 
 ```
 Origin: China
-Target: USA
+Target: United States
 Protocol: SSH
+Threat Level: Medium
 Status: Blocked
 ```
 
+Built with:
+
+- Three.js  
+- WebGL  
+- real-time threat feeds  
+
 ---
 
-# 🧠 AI SOC Dashboard
+# 🧠 AI Security Operations Dashboard
 
 <p align="center">
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="750">
@@ -84,13 +81,14 @@ Status: Blocked
 Simulated **AI threat detection engine**.
 
 ```
-AI Threat Analysis
-------------------
+AI Threat Detection
+-------------------
 
 Firewall: Active
-Intrusions Detected: 2
+Intrusion Attempts: 2
+Suspicious Packets: 14
 Threat Level: LOW
-System Health: Secure
+System Status: SECURE
 ```
 
 ---
@@ -107,7 +105,7 @@ System Health: Secure
 
 ---
 
-# 📊 Technology Usage
+# 📊 Interactive Technology Charts
 
 <p align="center">
 
@@ -122,11 +120,11 @@ System Health: Secure
 ```
 > help
 
-Commands available:
+Available Commands
 
-scan     → scan network
-status   → system status
-clear    → clear terminal
+scan      → scan network
+status    → system health
+clear     → clear terminal
 ```
 
 Example:
@@ -176,13 +174,11 @@ GitHub
 
 # 🚀 Featured Project
 
-### Matrix Rain Animation Login System
-
-Project:
+Matrix Rain Animation Login System
 
 https://github.com/raja-kumar-1996/Matrix-Animation-Login
 
-Live Demo:
+Live Demo
 
 https://raja-kumar-1996.github.io/Matrix-Animation-Login/
 
@@ -197,8 +193,8 @@ https://raja-kumar-1996.github.io/Matrix-Animation-Login/
 # 🟢 SYSTEM STATUS
 
 ```
-Security Level: ACTIVE
-Network Monitoring: ENABLED
-AI Threat Detection: RUNNING
+Cyber Defense: ACTIVE
+Threat Monitoring: ENABLED
+AI Detection: RUNNING
 SOC Dashboard: ONLINE
 ```
