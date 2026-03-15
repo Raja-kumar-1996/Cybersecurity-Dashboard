@@ -288,7 +288,7 @@ This project is **for educational purposes only**.
 
 It **does not perform real hacking or cybersecurity monitoring**.
 
----
+---![Cyber Dashboard](cyber-dashboard.png)
 
 # ⭐ Support
 
