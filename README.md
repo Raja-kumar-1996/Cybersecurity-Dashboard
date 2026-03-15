@@ -64,12 +64,8 @@ Future versions may integrate **real threat intelligence APIs**.
 ---
 
 # 🌍 3D Cyber Attack Globe
+![Cyber Security Dashboard](hacker-desktop.jpg)
 
-<p align="center">
-
-<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="700">
-
-</p>
 
 Planned implementation:
 
